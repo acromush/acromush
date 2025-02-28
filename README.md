@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @acromush
-- 👀 I’m interested in web development
+- 👀 I’m a web development
 - 🌱 I’m currently learning web3 , DApps
 - 💞️ I’m looking to collaborate on any web dev project related to REACT and NODE.js
 - 📫 You can reach me on acrobatic.mushroom@gmail.com
